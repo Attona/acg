@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Attona Group - Industry 4.0 Catalysts
