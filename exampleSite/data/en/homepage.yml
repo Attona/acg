@@ -3,9 +3,10 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Attona Consulting Group
-  content: A boutique consulting group accelerating discerning customers digital transformation
-    efforts.
+  title: Attona Group - Industry 4.0 Catalysts
+  content: We are experts in accelerating a company’s digital transformation to meet
+    their unique strategic objectives or north star, turning ideal possibilities into
+    real outcomes, with our “edge to outcome” approach.
   button:
     enable: true
     label: Discover Our Past Projects
