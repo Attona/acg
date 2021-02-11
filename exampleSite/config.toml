@@ -1,5 +1,5 @@
 baseURL = "https://www.attona.co"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
