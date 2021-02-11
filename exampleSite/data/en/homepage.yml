@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: "/images/19112347-preview.webm"
-  bg_overlay: true
+  bg_overlay: false
   title: Attona Group - Industry 4.0 Catalysts
   content: We are experts in accelerating a company’s digital transformation to meet
     their unique strategic objectives or north star, turning ideal possibilities into
