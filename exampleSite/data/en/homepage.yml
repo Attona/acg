@@ -8,7 +8,7 @@ banner:
     their unique strategic objectives or north star, turning ideal possibilities into
     real outcomes, with our “edge to outcome” approach.
   button:
-    enable: true
+    enable: false
     label: Discover Our Past Projects
     link: project
 about:
