@@ -42,7 +42,7 @@ service:
     name: Educate / Translate
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-compass
+  - icon: ion-map
     name: Model / Roadmap
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
