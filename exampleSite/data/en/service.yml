@@ -39,7 +39,7 @@ service:
     right at the coast of the Semantics
   service_item:
   - icon: ion-coffee
-    name: Branding
+    name: Educate / Translate
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
   - icon: ion-compass
