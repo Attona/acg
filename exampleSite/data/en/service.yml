@@ -46,7 +46,7 @@ service:
     name: Model / Roadmap
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ion-image
+  - icon: ion-trophy
     name: Execute / Deliver
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
