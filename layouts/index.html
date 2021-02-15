@@ -5,13 +5,13 @@
 <!-- banner -->
 {{ if $data.homepage.banner.enable }}
 {{ with $data.homepage.banner }}
-<!-- <section class="slider {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL }}');"> -->
-<section class="slider {{if .bg_overlay}}overly{{end}}">  
-  <!-- <div class="container"> -->
-  <div class="video-container">
+<section class="slider {{if .bg_overlay}}overly{{end}}" style="background-image: url('{{ .bg_image | absURL }}');">
+<!-- <section class="slider {{if .bg_overlay}}overly{{end}}"> -->  
+  <div class="container">
+  <!-- <div class="video-container">
     <video autoplay loop muted>
       <source src='{{ .bg_image | absURL }}'>
-    </video>
+    </video> -->
     <div class="row">
       <div class="col-md-12">
         <div class="block">
