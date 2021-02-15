@@ -50,8 +50,5 @@ service:
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
-  - icon: ''
-    name: ''
-    content: ''
 cta:
   enable: true
