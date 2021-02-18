@@ -44,8 +44,14 @@ service:
       the common language and what are the components.
   - icon: ion-map
     name: Model / Roadmap
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: This is application of the education on Industry 4.0 to your business
+      problems.    Modelling the business on how I 4.0 is applied to your business
+      - what are the tangible benefits to the business. Picking the right project,
+      at the right time,  and utilizing the right application of technology - becoming
+      anti-fragile.    The outcome of the Roadmap/Model is used to communicate/visualize
+      a clear north star for the business to focus on, enablers that will will be
+      used to carry you on that journey and a tangible model to meet the expectations
+      stated while addressing the limitations of the organization.
   - icon: ion-trophy
     name: Execute / Deliver
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
