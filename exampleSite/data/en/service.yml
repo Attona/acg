@@ -39,8 +39,9 @@ service:
   service_item:
   - icon: ion-university
     name: Educate / Translate
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: Provide clients with awareness and understanding of Industry 4.0 and
+      how it can be applied to your business problems in the Energy industry. Understanding
+      the common language and what are the components.
   - icon: ion-map
     name: Model / Roadmap
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
