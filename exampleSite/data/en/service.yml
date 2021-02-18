@@ -34,9 +34,8 @@ featured_service:
 service:
   enable: true
   title: Our Services
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
+  description: 'Our Digital Transformation history of success is built on the interaction
+    of the three primary components of our practice:'
   service_item:
   - icon: ion-university
     name: Educate / Translate
