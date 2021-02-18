@@ -54,7 +54,12 @@ service:
       stated while addressing the limitations of the organization.
   - icon: ion-trophy
     name: Execute / Deliver
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: We can be the catalyst in the execution. We are applying past experience
+      & patterns with technologies in adjacent industries that are applicable to the
+      energy industry. Thus can be completed in different versions based on our clients
+      capabilities and competencies.    Short-term gains with long term vision. Orchestration
+      of the roadmap/model to leverage people, process and technology in a continuous
+      improvement methodology. Refining data management and bringing together a team(internally
+      and externally) to deliver on the outcomes identified in the Roadmap/Model.
 cta:
   enable: true
