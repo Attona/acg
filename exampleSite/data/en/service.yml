@@ -38,7 +38,7 @@ service:
     of the three primary components of our practice:'
   service_item:
   - icon: ion-university
-    name: Education / Translation
+    name: Education & Translation
     content: Provide clients with awareness and understanding of Industry 4.0 and
       how it can be applied to your business problems in the Energy industry. Understanding
       the common language and what are the components.
