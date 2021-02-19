@@ -29,11 +29,11 @@ portfolio:
   title: Critical to Success
   content: " Critical to our successful approach is refining the unlimited ideal possibilities
     presented by Industry 4.0 into real incremental objectives and deliverables. \nIncremental
-    objectives are realistic when:\n\n<ul>\n<li>They balance the ability of the organization
-    to adapt with the change appetite of the organization, \n</li>\n<li>They match
-    the capabilities required for the needed enabling technologies with internal existing
-    capabilities and external delivery and training partners and,\n</li> \n<li>Expectations
-    are clear and Limitations are recognized and understood.\n</li>\n</ul>\n"
+    objectives are realistic when:\n\n* They balance the ability of the organization
+    to adapt with the change appetite of the organization, \n* They match the capabilities
+    required for the needed enabling technologies with internal existing capabilities
+    and external delivery and training partners and,\n* Expectations are clear and
+    Limitations are recognized and understood.\n"
   button:
     enable: false
     label: View Works
