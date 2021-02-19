@@ -48,7 +48,7 @@ cta:
 
     These incremental improvements are enabled through our ability to Educate and Translate the Industry 4.0 landscape, work with a client to develop an ideal to real Roadmap to meet their goals and objectives and finally we have a well-managed and scalable ecosystem with the right Resources and Delivery Model to execute on the roadmap.
   button:
-    enable: true
+    enable: false
     label: Tell Us Your Story
     link: contact
 funfacts:
