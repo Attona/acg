@@ -24,21 +24,24 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Critical to Success
+  content: " Critical to our successful approach is refining the unlimited ideal possibilities
+    presented by Industry 4.0 into real incremental objectives and deliverables. \nIncremental
+    objectives are realistic when:\n\n•\tThey balance the ability of the organization
+    to adapt with the change appetite of the organization, \n•\tThey match the capabilities
+    required for the needed enabling technologies with internal existing capabilities
+    and external delivery and training partners and, \n•\tExpectations are clear and
+    Limitations are recognized and understood.\n\nThese incremental improvements are
+    enabled through our ability to Educate and Translate the Industry 4.0 landscape,
+    work with a client to develop an ideal to real Roadmap to meet their goals and
+    objectives and finally we have a well-managed and scalable ecosystem with the
+    right Resources and Delivery Model to execute on the roadmap.\n"
   button:
     enable: true
     label: View Works
     link: project
 service:
-  enable: true
+  enable: false
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
