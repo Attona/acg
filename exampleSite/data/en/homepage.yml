@@ -17,12 +17,9 @@ about:
   description: Far far away, behind the word mountains, far from the countries Vokalia
     and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  content: |
+    We have a long successful history delivering Digital Transformation (pre-dating the coining of the term) to a broad industry audience:  Healthcare, education,  shipping, telecommunications, high-technology, and energy. Technology spans industries and the knowledge and experience we have is applicable cross industry. We are focused on the energy industry – all forms of energy.
+    <br /><br />We specialize in driving business critical outcomes leveraging the enabling technologies of Industry 4.0 (cloud, IoT, blockchain, big data, analytics, artificial intelligence/machine learning, robotic process automation, integration, extended reality, etc.). In achieving the objective in this manner, the business becomes “digitally transformed”.
   image: images/wrapper-img.png
 portfolio:
   enable: true
