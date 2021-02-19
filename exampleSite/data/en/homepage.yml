@@ -35,7 +35,7 @@ portfolio:
     capabilities and external delivery and training partners and,\n</li> \n<li>Expectations
     are clear and Limitations are recognized and understood.\n</li>\n</ul>\n"
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
